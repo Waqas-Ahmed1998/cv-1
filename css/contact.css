@@ -1,0 +1,21 @@
+.thanksline
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  color: gray;
+}
+.contactline
+{
+  color: brown;
+  border-width: medium;
+}
+.contactheading
+{
+  color: brown;
+}
+.submitbutton:hover
+{
+  color: blue;
+}
